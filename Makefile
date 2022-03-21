@@ -8,4 +8,5 @@ all: main.cpp
 clean:
 	#rm build/*.o
 	rm dbscan
+	rm *.db
 
